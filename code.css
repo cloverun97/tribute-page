@@ -1,0 +1,42 @@
+.font-h1{
+	font-family: Average;
+	font-size: 100px !important;
+	color: black !important;
+}
+
+.smaller-image {
+	width: 750px;
+}
+
+.round-image {
+	border-radius: 50%;
+}
+
+.grey-box{
+	background-color: #d3d3d3;
+	padding: 10px 10px 10px 10px;
+	border-radius: 6px;
+}
+
+body{
+	background-color: white;
+	padding: 100px 300px 100px 300px;
+}
+
+.white-box{
+	background-color: white;
+	margin: 10px 210px 0px 210px;
+	border-radius: 3px;
+  size: cover;
+  padding: 5px 5px 0px 5px;
+}
+
+.transparent-box{
+	margin: 10px 200px 10px 200px;
+}
+
+.grey-line{
+	background-color: #d3d3d3;
+	padding: 10px 10px 10px 10px;
+	border-radius: 6px;
+}
